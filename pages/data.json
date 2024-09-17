@@ -1,0 +1,30 @@
+[
+  {
+    "id": "user1",
+    "name": "Alex Johnson",
+    "role": "Software Engineer",
+    "bio": "Passionate about building scalable web applications and exploring new technologies.",
+    "avatar": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": "user2",
+    "name": "Sam Lee",
+    "role": "UX Designer",
+    "bio": "Creating intuitive and beautiful user experiences is my passion. Always learning, always designing.",
+    "avatar": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": "user3",
+    "name": "Jordan Taylor",
+    "role": "Product Manager",
+    "bio": "Bridging the gap between user needs and technical solutions. Agile enthusiast and team player.",
+    "avatar": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": "user4",
+    "name": "Casey Morgan",
+    "role": "Data Scientist",
+    "bio": "Turning data into actionable insights. Machine learning aficionado with a knack for problem-solving.",
+    "avatar": "/placeholder.svg?height=200&width=200"
+  }
+]
